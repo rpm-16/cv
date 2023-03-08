@@ -1,0 +1,16 @@
+{
+    "name": "admin/cv",
+    "description": "My CV",
+    "autoload": {
+        "psr-4": {
+            "Admin\\Cv\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "rpm-16",
+            "email": "rpm-16@mail.ru"
+        }
+    ],
+    "require": {}
+}
